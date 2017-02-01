@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Female Travel</title>
+</head>
+
+<body>
+	<h1>Female Solo Travel</h1>
+	
+	<h2>Face Your Fears</h2>
+	<p>Sure, of course it's scary, but that's the beauty of it. 
+	Traveling is all about breaking out of your comfort zone and overcoming your fears.</p>
+	<br>
+	Once you decide to take the leap, you must decide where to go.
+	
+	<hr>
+	
+	<h2>Safest Destinations for Women</h2>
+	<ul>
+		<li>New Zealand</li>
+		<li>Ireland</li>
+		<li>Dubai </li>
+		<li>Amsterdam </li>
+		<li>Canada</li>
+		<li>Bali</li>
+	</ul>	
+	
+	<hr>
+		<!--This is a comment.-->
+	<h3>Nervous about taking your first trip?</h2>
+	<p><a href="http://theblondeabroad.com/2015/11/18/10-tips-for-taking-your-first-solo-trip/">Check out these top 10 tips.</a>
+</p>
+
+	<hr>
+
+<img src="travel.jpg"
+width="120" height="90" alt="Woman standing on rock by sea">
+
+	<hr>
+
+<blockquote cite="http://www.htmldog.com/guides/html/intermediate/text/">
+    <p> she said yes.</p>
+</blockquote>
+
+	<hr>
+
+<h4><center>Title for Table Goes Here</center></h4>
+<table>
+    <tr>
+        <td>Therese</td>
+        <td>Ellie</td>
+        <td>Emma</td>
+    </tr>
+    <tr>
+        <td>Kate</td>
+        <td>KFo</td>
+        <td>Amy</td>
+    </tr>
+    
+</table>
+
+<ul>
+    <li>To learn HTML</li>
+    <li>
+        To show off
+        <ol>
+            <li>To my boss</li>
+            <li>To my friends</li>
+            <li>To my cat</li>
+            <li>To the little talking duck in my brain</li>
+        </ol>
+    </li>
+    <li>Because I've fallen in love with my computer and want to give her some HTML loving.</li>
+</ul>
+
+
+
+</body>
+</html>
